@@ -38,6 +38,15 @@ The electronic schematic for the device:
 
 ---
 
+## Default keymap
+
+* **SW1** Copy
+* **SW2** Undo
+* **SW3** Clipboard (Paste)
+* **SW4** Explorer
+* **SW5** Cut
+* **SW6** Taskmanager
+
 ## Bill of Materials (BOM)
 
 Here are the parts required to build this macropad:
@@ -47,6 +56,7 @@ Here are the parts required to build this macropad:
 | Seeed XIAO RP2040 | 1 | The main microcontroller |
 | Cherry MX Switches | 6 | (or compatible clones) |
 | Keycaps | 6 | Compatible with chosen switches |
+| SK6812 MINI-E LED | 6 | (or fitting neopixel-leds) |
 | EC11 Rotary encoder | 1 | For Volume, Brightness, ect. |
 | 3D Print Filament | - | PLA or PETG for the case |
 | Screws | 4 | M3x16mm for assembly (Thread trough Plastic) |
