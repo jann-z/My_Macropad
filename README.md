@@ -21,7 +21,6 @@ Per the submission requirements, here are the different views of the project:
 ### 1. The Assembled Macropad (Render)
 A 3D render of the complete assembly (Case + PCB):
 ![Full Assembly](./img/render_full.png)
-*(Replace "./img/render_full.png" with the actual path to your image)*
 
 ### 2. Case Design
 How the 3D printed case parts fit together:
