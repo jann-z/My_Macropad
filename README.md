@@ -23,7 +23,7 @@ A 3D render of the complete assembly (Case + PCB):
 ![Full Assembly](./img/render_full.png)
 
 ### 2. Case Design
-How the 3D printed case parts fit together:
+The 3D printed Case and Top:
 ![Case Assembly](./img/render_case.png)
 
 ### 3. PCB Layout
