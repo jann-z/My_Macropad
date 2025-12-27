@@ -25,6 +25,7 @@ A 3D render of the complete assembly (Case + PCB):
 ### 2. Case Design
 The 3D printed Case and Top:
 ![Case Assembly](./img/render_case.png)
+![Case Assembly 2](./img/render_case2.png)
 
 ### 3. PCB Layout
 A view of the PCB routing:
