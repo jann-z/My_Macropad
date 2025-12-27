@@ -49,7 +49,7 @@ The electronic schematic for the device:
 
 ### Rotary Encoder (EC11)
 
-Modes are changet by pressing the switch of the Encoder:
+Modes are changet by pressing the switch of the Encoder (SW7):
 
 * **Mode 1** Volume
 * **Mode 2** RGB Brightness
