@@ -47,6 +47,14 @@ The electronic schematic for the device:
 * **SW5** Cut
 * **SW6** Taskmanager
 
+### Rotary Encoder (EC11)
+
+Modes are changet by pressing the switch of the Encoder:
+
+* **Mode 1** Volume
+* **Mode 2** RGB Brightness
+* **Mode 3** RGB Pattern
+
 ## Bill of Materials (BOM)
 
 Here are the parts required to build this macropad:
