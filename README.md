@@ -14,6 +14,8 @@ The PCB was created using KiCad, keeping the layout clean and efficient on a 2-l
 Running on QMK firmware, the pad is fully programmable, allowing users to customize keymaps for gaming, coding shortcuts, or media control.
 It serves as both a practical tool and a showcase of custom hardware design.
 
+The case is version 2 because without the "bump" (inspired by Google Pixel camera-bump), the rotary encoder wouldn't fit.
+
 ## Design & Visuals
 
 Per the submission requirements, here are the different views of the project:
